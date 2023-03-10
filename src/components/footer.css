@@ -1,0 +1,6 @@
+footer{
+	width: 100vw; height: 10%; background-color:#232628; color:#ffffff; max-width: 100%;
+	overflow: hidden; margin-top:30px;
+}
+
+footer .wrap{padding : 20px;}

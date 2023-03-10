@@ -1,0 +1,130 @@
+body{padding-top: 70px; }
+
+#content2{
+	background-color: #efeeec;
+}
+
+#image{height: 30%;}
+
+.image_img{
+	overflow:hidden; height: 40%;
+}
+
+.image_img>img{ width: 100%; }
+
+.wrap{width:100%; display: inline-block; }
+
+
+.content_div{
+	
+	width:25%; 
+	height:20%; 
+	float: left; 
+	margin: 50px 10px 10px 25px; 
+	position: relative;
+	overflow:hidden;
+}
+
+.content_div>img{
+	top: 0; left: 0;
+	width: 100%; height: 100%;
+	object-fit: cover;
+}
+
+.content_text{
+	position: relative;
+	float: left; 
+	width:12%; 
+	height:20%; 
+	font-size: 26px;
+	text-align: right;
+    letter-spacing: 6px;
+    
+    font-family:'Gilroy','Spoqa Han Sans','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
+    margin: 200px 10px 10px 10px;
+}
+
+.button{
+	background-color: #5b4c3d;
+}
+
+.button:hover{background-color:#ffffff;}
+
+.btn{
+	
+	text-decoration:none;
+	padding-left:25px;
+	padding-right:25px;
+	color:#ffffff;
+	text-align: center;
+	font-size:15px;
+}
+
+.content_div2{
+	width:38%; 
+	height:25%; 
+	display: inline-block; 
+	float: left; 
+	margin: 50px 10px 10px 30px; 
+	position: relative;
+	overflow:hidden;
+}
+
+.content_div2>img{
+	top: 0; left: 0;
+	width: 100%; height: 100%;
+	object-fit: cover;
+}
+
+#contact_etc{height: 5%;}
+
+#mobile_contact{display: none; }
+
+.contact{
+	width:30%; 
+	height:5%; 
+	float: left; 
+	margin: 50px 10px 10px 25px; 
+	position: relative;
+	overflow:hidden;
+}
+
+.contact_grid{
+	display: grid;
+	place-items: center;
+	column-gap: 10px;
+	row-gap: 10px;
+	grid-template-rows: repeat(3, minmax(50px, auto));
+}
+
+.circle{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 150px; height: 150px;
+	border-radius: 50%; background: #efeeec;
+}
+
+.circle > i{
+	font-size: 48px;
+}
+
+/* mobile / tablet */
+@media screen and (max-width: 1070px){
+    #index_img1{width: 95%; height: 10%; float: left;  margin: 10px; }
+	#index_img2{display: none;}
+	#index_img3{display: none;}
+	.content_text{width: 95%; margin: 10px; text-align: center;}
+	
+	#index2_img1{width: 95%; height: 10%; float: left;  margin: 10px; }
+	#index2_img2{display: none;}
+	.introduce{display: none;}
+	
+	#desktop_contact{display: none;}
+	#mobile_contact{display: flex; justify-content: center;}
+	.contact{width: auto; margin: 10px; }
+	
+	.circle{width: 50px; height: 50px;}
+	.circle > i{font-size: 20px;}
+	.contact_text{display: none;}
+}
