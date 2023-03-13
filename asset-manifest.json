@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/golden-fitness-app/static/css/main.af36a623.css",
+    "main.js": "/golden-fitness-app/static/js/main.60958b7d.js",
+    "static/js/787.f84386e2.chunk.js": "/golden-fitness-app/static/js/787.f84386e2.chunk.js",
+    "static/media/inbody.jpg": "/golden-fitness-app/static/media/inbody.41b6744b6186291325ce.jpg",
+    "static/media/center_in(1).jpg": "/golden-fitness-app/static/media/center_in(1).4f602a553edcca96c91d.jpg",
+    "static/media/clothes_sizechange.jpg": "/golden-fitness-app/static/media/clothes_sizechange.d3a7a1e00ed63203035b.jpg",
+    "static/media/straching.jpg": "/golden-fitness-app/static/media/straching.dceeed111fded52194f9.jpg",
+    "static/media/bag_storage_sizechange.jpg": "/golden-fitness-app/static/media/bag_storage_sizechange.d5413bf0ed83c22a19cc.jpg",
+    "static/media/cycle_sizechange.jpg": "/golden-fitness-app/static/media/cycle_sizechange.da96516e29c496c527a0.jpg",
+    "static/media/center_in(4).jpg": "/golden-fitness-app/static/media/center_in(4).f7cb417c528989cff0e3.jpg",
+    "static/media/locker(2).jpg": "/golden-fitness-app/static/media/locker(2).932331d55d1b788faba6.jpg",
+    "static/media/running_machine_sizechange.jpg": "/golden-fitness-app/static/media/running_machine_sizechange.62df007739f9daa5ad38.jpg",
+    "static/media/center_outside.jpg": "/golden-fitness-app/static/media/center_outside.3a0617037a2c931541f8.jpg",
+    "static/media/center_in(3).jpg": "/golden-fitness-app/static/media/center_in(3).77ad6560b4a11bfd8f80.jpg",
+    "static/media/phone_charger.jpg": "/golden-fitness-app/static/media/phone_charger.7e0a0cfda0e2ebe20993.jpg",
+    "static/media/center_outside(2).jpg": "/golden-fitness-app/static/media/center_outside(2).ace84a03f3541c559a42.jpg",
+    "static/media/weight(3).jpg": "/golden-fitness-app/static/media/weight(3).523261a2bcb0bea933a1.jpg",
+    "static/media/weight(1)_sizechange.jpg": "/golden-fitness-app/static/media/weight(1)_sizechange.7b0eec265254dd26ec49.jpg",
+    "static/media/coffee_machine_sizechange.jpg": "/golden-fitness-app/static/media/coffee_machine_sizechange.237c6e969de055e58a56.jpg",
+    "static/media/machine_explanation_monitor_sizechange.jpg": "/golden-fitness-app/static/media/machine_explanation_monitor_sizechange.86b93649d38becbd282e.jpg",
+    "static/media/center_in(5).jpg": "/golden-fitness-app/static/media/center_in(5).0c1b555d85873ae6df06.jpg",
+    "static/media/shower_room.jpg": "/golden-fitness-app/static/media/shower_room.faf270a9a538c26a897f.jpg",
+    "static/media/personal_training_img.jpg": "/golden-fitness-app/static/media/personal_training_img.55b1ac55dcb5d597610e.jpg",
+    "static/media/restroom.jpg": "/golden-fitness-app/static/media/restroom.c92a75652251c1f76dca.jpg",
+    "static/media/golden_health_main_img.jpg": "/golden-fitness-app/static/media/golden_health_main_img.5e2e4cf64cf9733af889.jpg",
+    "static/media/fitting_room(2).jpg": "/golden-fitness-app/static/media/fitting_room(2).60a8c52e4d5bf93147a3.jpg",
+    "static/media/introduce_center_img.jpg": "/golden-fitness-app/static/media/introduce_center_img.0fcb70d362d59948b3ce.jpg",
+    "static/media/health_logo.png": "/golden-fitness-app/static/media/health_logo.6a479dc23ec76ec40641.png",
+    "static/media/convenience_facility_img.jpg": "/golden-fitness-app/static/media/convenience_facility_img.8ccecac7b13c98d33d72.jpg",
+    "static/media/way_to_come.jpg": "/golden-fitness-app/static/media/way_to_come.8e70f34cb1708bf3c325.jpg",
+    "index.html": "/golden-fitness-app/index.html",
+    "main.af36a623.css.map": "/golden-fitness-app/static/css/main.af36a623.css.map",
+    "main.60958b7d.js.map": "/golden-fitness-app/static/js/main.60958b7d.js.map",
+    "787.f84386e2.chunk.js.map": "/golden-fitness-app/static/js/787.f84386e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af36a623.css",
+    "static/js/main.60958b7d.js"
+  ]
+}
